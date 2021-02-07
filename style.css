@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+.preparo > h2{
+    border: 2px solid black;
+    border-radius: 13px;
+    width: 205px;
+}
+
+.ingredientes > h2{
+    border: 2px solid black;
+    border-radius: 13px;
+    width: 275px;
+}
+
+#titulo{
+    border: 2px solid black;
+    width: 402px;
+    border-radius: 18px;
+}
